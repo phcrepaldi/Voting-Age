@@ -17,7 +17,7 @@ To use the Voting Calculator, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/voting-calculator.git
+   git clone https://github.com/phcrepaldi/Voting-Age.git
    ```
 
 2. Open the `index.html` file in your web browser.
