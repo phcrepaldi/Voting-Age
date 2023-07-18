@@ -56,8 +56,8 @@ If you would like to contribute to this project, please follow these steps:
 
 ## Links
 
-- Project homepage: [https://github.com/your-username/voting-calculator](https://github.com/your-username/voting-calculator)
-- Issue tracker: [https://github.com/your-username/voting-calculator/issues](https://github.com/your-username/voting-calculator/issues)
+- Project homepage: [https://github.com/phcrepaldi/Voting-Age](https://github.com/phcrepaldi/Voting-Age)
+- Issue tracker: [https://github.com/phcrepaldi/Voting-Age/issues](https://github.com/phcrepaldi/Voting-Age/issues)
 
 For any sensitive bugs or security vulnerabilities, please contact the project owner directly at phcrepaldi@gmail.com instead of using the issue tracker. We appreciate your efforts in improving the security and privacy of this project.
 
